@@ -6,7 +6,7 @@ Criação de conta de Microsoft;
 Configuração de pagamento;
 Diferenciação entre Opex e Capex
 Tipos de Nuvem;
-No ambiente azure foi feito um overviwer onde pude deslumbrar alguns recursos:
+No ambiente azure foi feito um overviwer onde pude deslumbrar alguns recursos:<br>
 Armazenamento => Onde foi abordao de maneira superficial alguns tipos de discos e mensionado que existe ferramentas para uploades de massa de dados em caso de possivel migração.
 Banco de dados => Mencionou a respeito de criação de bancos de dados em nuvem, podendo ser acessado de maneira segura,  tamto apartir de ambiente privado quando de sites, falou a respeito da escalabilidade e backups
 Computação => Abordou um pouco do que seria o ambiente com maquinas em nuvem, onde é possivel a criação de maquinas, servidores, firewalls e etc, alem de resaltar a importancia de um firewall mesmo em nuvem.
